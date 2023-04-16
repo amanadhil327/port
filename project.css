@@ -1,0 +1,130 @@
+.code{
+     margin-left:20px;
+     
+}
+
+.nav {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+}
+.click a{
+     display: inline;
+     float: right;
+     margin:10px;
+     color: white;
+}
+
+#try{
+     background-color: white;
+     border-radius:10px;
+     padding: 10px 24px;
+}
+
+.nav{
+     margin-top: 30px;
+     color: white;
+     padding-left: 60px;
+}
+    
+#card{
+
+     margin: 20px;
+     padding:25px;
+     text-align: center;
+     border-radius: 20px;
+     
+
+}
+
+
+.first-card{
+     
+   
+     margin:20px;
+     width:fill;
+     background-color: white;
+     
+}
+
+.second-card{
+   
+     margin:20px;
+     width: fill;
+     background-color: white;
+    
+  
+}
+
+
+.third-card{
+   
+     margin:20px;
+     width: fill;
+     background-color: white;
+}
+
+    
+/*#top{
+     margin-bottom: 20px;
+}*/
+
+#num{
+     color: rgb(255, 0, 98);
+     font-size: 50px;
+}
+
+#container{
+     text-align:left;
+     display: flex;
+     flex-direction: column;
+     padding:15px
+
+}
+
+
+.button{
+     padding:14px 40px;
+     background-color:rgb(1, 153, 255);
+     color: white;
+     border-radius: 10px;
+     cursor: pointer;
+}
+#text{
+     text-align:left;
+}
+#cardheading{
+     color: white;
+     border-radius: 5px;
+     text-align: center;
+     background-color: darkred;
+     padding: 10px;
+
+}
+
+
+  
+#professional{
+     margin-left: 50px;
+}
+.grid{
+     display: grid;
+    justify-content: space-evenly;
+   /*  grid-template-rows:auto auto 150px;*/ 
+     grid-template-columns: auto auto auto;
+   padding: 30px;
+   padding-left: 130px;
+     
+}    
+
+     
+
+
+
+.gradient{
+     
+     background: linear-gradient(to bottom right, #9900ff 13%, #ff0066 87%);
+}
+
+
